@@ -18,7 +18,7 @@ Here I have calculated the price of house in a bengaluru with features of number
  2) Pandas
  3) Matplotlib
  4) Seaborn
- 5) Sklearn
+ 5) Scikit-Learn
   
 ## 🛠 Skills
 Python 
